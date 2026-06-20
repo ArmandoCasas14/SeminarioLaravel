@@ -11,3 +11,5 @@ Actividad en Parejas (25 min):
 variable $materiaFavorita (texto).
 • Mostrar un mensaje que diga: "Estoy en [semestre] semestre y mi materiafavorita es [materia]."
 ![alt text](image-3.png)
+ Captura de pantalla mostrando la lista de usuarios. Si falla, revisarque el host sea db y la contraseña root_password.
+![alt text](image-4.png)
