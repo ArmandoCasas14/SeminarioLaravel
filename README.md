@@ -13,3 +13,5 @@ variable $materiaFavorita (texto).
 ![alt text](image-3.png)
  Captura de pantalla mostrando la lista de usuarios. Si falla, revisarque el host sea db y la contraseña root_password.
 ![alt text](image-4.png)
+Bloque 9
+![alt text](image-5.png)
