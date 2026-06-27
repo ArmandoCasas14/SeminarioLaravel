@@ -15,3 +15,5 @@ variable $materiaFavorita (texto).
 ![alt text](image-4.png)
 Bloque 9
 ![alt text](image-5.png)
+Bloque 10
+![alt text](image-6.png)

@@ -32,6 +32,8 @@ class UserModel {
     public function delete($id) {
         $stmt = $this->db->prepare("DELETE FROM users WHERE id = ?");
         return $stmt->execute([$id]);
+        header('Location: index.php?action=index');
+        exit;
     }
 }
 ?>
